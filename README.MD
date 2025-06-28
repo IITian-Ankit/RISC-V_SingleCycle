@@ -28,6 +28,15 @@ The processor executes each instruction in one clock cycle, illustrating the bas
 - `README.md` — This document.
 
 ---
+---
+
+## 📷 Image References
+
+- Design Diagram: -  https://github.com/IITian-Ankit/RISC-V_SingleCycle/blob/main/Design_and_Simulation_Images/Design%20of%20ISA.png
+- Simulation Waveform: https://github.com/IITian-Ankit/RISC-V_SingleCycle/blob/main/Design_and_Simulation_Images/Simulation_Image.png
+   Captured using GTKWave during simulation with Icarus Verilog.
+
+If you use or share these images, please credit accordingly.
 
 ## 💡 Features
 
