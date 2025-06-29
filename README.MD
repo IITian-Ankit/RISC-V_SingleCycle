@@ -68,8 +68,7 @@ If you use or share these images, please credit accordingly.
 
 ## 📚 References
 
-- [RISC-V Specification](https://riscv.org/specifications/)  
-- "Computer Organization and Design RISC-V Edition" by David A. Patterson and John L. Hennessy  
+- Digital Design and Computer Architecture: RISC-V Edition by Sarah L. Harris and David Harris  
 - Various open-source RISC-V projects and tutorials for guidance
 
 ---
