@@ -70,6 +70,7 @@ If you use or share these images, please credit accordingly.
 
 - Digital Design and Computer Architecture: RISC-V Edition by Sarah L. Harris and David Harris  
 - Various open-source RISC-V projects and tutorials for guidance
+- Tutorial from RISC-V Transistors to AI
 
 ---
 
